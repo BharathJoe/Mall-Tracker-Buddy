@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176061234819",
+    "firebase_url": "https://mall-tracker-buddy-f4d49.firebaseio.com",
+    "project_id": "mall-tracker-buddy-f4d49",
+    "storage_bucket": "mall-tracker-buddy-f4d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176061234819:android:044124428a7e2c4f5065b6",
+        "android_client_info": {
+          "package_name": "com.example.mall_tracker_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176061234819-fag25ivo4pj626fb2dp6ucgfh7h1nqs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFcoCY6eVkgjMQM_sKJazqX5mxIqN58nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176061234819-fag25ivo4pj626fb2dp6ucgfh7h1nqs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

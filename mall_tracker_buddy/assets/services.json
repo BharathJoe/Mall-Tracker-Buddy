@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "logical-codex-293318",
+  "private_key_id": "e6f4e34b90f814b353123de7fc0ef20e0dc29461",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6MshOie42SfKB\nBtUUEvbUrIopn0adTs8rYlPzp4DAKUgG/F3N9pI8q0nvRNsB/2BjizwBZcIVZM5l\nzS95RMwU1f2RxQtIBVUBuSc5pfT+GvYP66Dq6bfpf6eWPjeIq1PlAqwJ1xLm3e2V\nH0xdKTU6iSYX3kCEXgTgf12FKkNLgPR8/I0DkD61wVIxsJgUBTVHyiID1wIR2wb7\nn83MIMxcKyPJl44Qjpq3OhI0t+HrwEyVz/utisRWYEMntc9J4netnUVmGdp3FC5R\nakYOVGuXf7/HSMOih4cHH0Wa9JuqYJEmCqcda4QEap0O6X6lrv+3bPfdIew9wo/w\noVEWipTFAgMBAAECggEADPwQHGwBfO80tls93j/BT0z1+JeXIs61Y0rg3F+8uonW\ncEhGmV+dzJXMWt90H2RJ+j8iMN3CBmBohVBlBGGwEq7mlzUEx6G5jxx0mBBS8Kp8\nKNmPd/pS/TlN/Ev77u+1ssV4Llp9grSMxiav2lpOkDWyvpzc5m4xDF/Na4UqOrhV\nwK9oP5RJAb93qbxg4f45H5jjWQaGmXMqsr+XwIzbzSjBgeibKCyP+GRSW2prpGpK\nepvmXke6NkRTK2wFttnZloDHeZ6Jj7mDi9gkG2p5pJlpWmFD1SHr5Ricz3dieAVj\n2U9JP/nLU9g4Dar0uHCMfzFeVGVb7gAk76+X8NFTqQKBgQDcVAjKgeYBASHDTCHc\nht81x80TajZCEVprL0pH5ebkWp5rsNAlERmvaIBL0ahS34E+SdZ7nUlZ9kyFUlZl\naiY+sv+DxvvsOOSPvHATXsNEXocxzK5yxFPQRi4b5rM0Y/04Wl32AZPNBt4AdXFE\n91PYTOcqLTg4OvpWMZRB/wwUbQKBgQDYWCnU2hwkPsGetZtbc6fqwbTxB4HhCbAW\nJwh9ORt8F95ETkQxUV2UwPb8GwK6bRzvWropxvSM1qhZ9b0Bjd3VrHEHr/LU1vYQ\nPkGpQE3AI0a5tbn3VaqlH0UbFHae6qTyci8XEYFoVp+l+WhoUaat0r69qo2OH/1R\nGY3/QjfauQKBgQCn5W2xi91OxKMK5Pgkya5MmE4BTn28SOcDKM1NDretKhTw8ZMb\nu/U7wsGJhWHkjSc65R+JoWklIdhb/EuUCpjMTLEDpV2SPCSIF8u8JwlcD0CsxVHm\naQ+JdgFrB5lmAhATomFZtwf/RA1mghhnuqVs/eVmMYFW8DKV/kABLq7w3QKBgE8Y\nLHL9Kry1lOQJUTsmFYXmO9jC/eDgQdhXfOsLLdk4gLJISvYc4TG5OpMA7QZrTeDU\nMquDaXT0Jah+BxPCYg/0c35z/TuDO4LEwAy4zbQpMXpDzjF2yGSGAiXcXWHMN3HL\n/RtZ8w3KXaO4g0tgTqfOHJ4K9KW5XEuCJD/mXbVBAoGASVMGG0DE+LzU4nZb+Izi\nvJkYjfm29EzDJZJfrZscNbK4olzxy8PzmA12cdxtD9OyMfL4BAqepQ7XnpuNQJjG\nuqs+PudNXS9wN7Ir9z+kkT4rTUQBTZeqSh3W9/Ge7Izeu83VEc+WAjZU6pcdo+x+\n58ZQx1bgGQC6NXioiC9xbic=\n-----END PRIVATE KEY-----\n",
+  "client_email": "malltrackerbuddy@logical-codex-293318.iam.gserviceaccount.com",
+  "client_id": "113819678775414238113",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/malltrackerbuddy%40logical-codex-293318.iam.gserviceaccount.com"
+}
